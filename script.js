@@ -1,3 +1,1 @@
-document.addEventListener('DOMContentLoaded', () => {
-    alert('Welcome to my webpage!');
-});
+// No JavaScript needed to autoplay, it's handled by the HTML itself.
